@@ -1,0 +1,6 @@
+{
+  "name": "Nannies Inc. | Canadian Nanny & Caregiver Placement Agency",
+  "description": "Personalized in-home nanny and elderly caregiver placement across Canada. Live-in and live-out childcare and senior care matching since 2001.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
